@@ -1,0 +1,71 @@
+{
+    "manifest_version": 2,
+
+    "name": "SugarCRM Sidebar for Gmail™",
+    "version": "14.1.501",
+
+    "description": "__MSG_extDesc__",
+    "author": "SugarCRM",
+    "homepage_url": "http://www.sugarcrm.com",
+
+    "default_locale": "en_US",
+
+    "icons": {
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["*://mail.google.com/*"],
+            "js": [
+                "lib/jsdeferred.js",
+                "js/utility.js",
+                "js/messages.js",
+                "js/http.js",
+                "js/rest.js",
+                "js/gmail.js",
+                "js/sugar.js",
+                "js/ga.js",
+                "js/metadata.js",
+                "js/app.js",
+                "js/menu.js",
+                "js/selection.js",
+                "js/sidebar.js",
+                "js/sidebar.ui.js",
+                "js/main.js"
+            ],
+            "css": [
+                "css/sidebar.css",
+                "css/header.css"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+
+    "permissions": [
+        "tabs",
+        "storage",
+        "https://script.google.com/*",
+        "http://mail.google.com/*",
+        "https://mail.google.com/*",
+        "https://www.google-analytics.com/*",
+        "https://*/*",
+        "http://*/*"
+    ],
+
+    "web_accessible_resources": [
+        "lib/jquery.js",
+        "lib/gmail.js",
+        "img/sugarcube.png",
+        "img/topbg.png",
+        "img/topbg_hover.png",
+        "img/topmenuarrow.png",
+        "img/blank.png",
+        "img/expand.png",
+        "img/collapse.png",
+        "img/loading.gif",
+        "img/attention.png"
+    ]
+}

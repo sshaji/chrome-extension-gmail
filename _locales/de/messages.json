@@ -1,0 +1,190 @@
+{
+    "About_LanguageProvidedBy": {
+        "message": "\u00DCbersetzungen von SugarCRM zur Verf\u00FCgung gestellt",
+        "description": ""
+    },
+    "extDesc": {
+        "message": "Neues SugarCRM Sidebar auf Google Mail-Seite und bieten Integration zwischen Google Mail und Zucker",
+        "description": ""
+    },
+    "SugarMenu_AddContactsToSugar": {
+        "message": "Kontakte hinzuf\u00FCgen, um Zucker",
+        "description": ""
+    },
+    "SugarMenu_Settings": {
+        "message": "Verbindungseinstellungen",
+        "description": ""
+    },
+    "SugarMenu_About": {
+        "message": "\u00DCber",
+        "description": ""
+    },
+    "SugarMenu_Help": {
+        "message": "Hilfe",
+        "description": ""
+    },
+    "Metadata_Outdated": {
+        "message": "Metadaten ist veraltet.",
+        "description": ""
+    },
+    "Metadata_ClickToFix": {
+        "message": "Klicken Sie hier, um zu beheben.",
+        "description": ""
+    },
+    "Sidebar_NeedPermission": {
+        "message": "Zuckerseitenleiste ben\u00F6tigen Ihre Zustimmung an Google Mail zuzugreifen:",
+        "description": ""
+    },
+    "Sidebar_RefreshMessage": {
+        "message": "Klicken Sie auf Aktualisieren, nachdem die den Zugang",
+        "description": ""
+    },
+    "Sidebar_AllowAccess": {
+        "message": "Zugriff zulassen",
+        "description": ""
+    },
+    "Sidebar_Refresh": {
+        "message": "Aktualisieren",
+        "description": ""
+    },
+    "Sidebar_EmailLinked": {
+        "message": "Sugar verlinkten",
+        "description": ""
+    },
+    "Sidebar_SenderRecord": {
+        "message": "E-Mail von",
+        "description": ""
+    },
+    "Sidebar_RelatedSugarRecords": {
+        "message": "Verwandte Zucker Aufzeichnungen",
+        "description": ""
+    },
+    "Sidebar_Search": {
+        "message": "Suche",
+        "description": ""
+    },
+    "Sidebar_MatchingSugarRecords": {
+        "message": "Passende Zucker Aufzeichnungen",
+        "description": ""
+    },
+    "Sidebar_LinkEmail": {
+        "message": "Link Email",
+        "description": ""
+    },
+    "Sidebar_FoundAnIssue": {
+        "message": "Ein Problem gefunden?",
+        "description": ""
+    },
+    "Sidebar_IssueLetUsKnow": {
+        "message": "Bitte lassen Sie uns wissen",
+        "description": ""
+    },
+    "SettingsDialog_Title": {
+        "message": "Verbindungseinstellungen",
+        "description": ""
+    },
+    "SettingsDialog_SugarURL": {
+        "message": "Zucker URL",
+        "description": ""
+    },
+    "SettingsDialog_Username": {
+        "message": "Benutzername",
+        "description": ""
+    },
+    "SettingsDialog_Password": {
+        "message": "Passwort",
+        "description": ""
+    },
+    "SettingsDialog_SaveSettings": {
+        "message": "Einstellungen speichern",
+        "description": ""
+    },
+    "SettingsDialog_Cancel": {
+        "message": "Stornieren",
+        "description": ""
+    },
+    "SettingsDialog_URLValidationMessage": {
+        "message": "Bitte geben Sie die Zucker-URL.",
+        "description": ""
+    },
+    "SettingsDialog_LoginValidationMessage": {
+        "message": "Bitte geben Sie Ihre Login-Daten.",
+        "description": ""
+    },
+    "PersonFormDialog_Title": {
+        "message": "Schaffen",
+        "description": ""
+    },
+    "PersonFormDialog_SelectOne": {
+        "message": "W\u00E4hlen Sie eine Person",
+        "description": ""
+    },
+    "PersonFormDialog_FirstName": {
+        "message": "Vorname",
+        "description": ""
+    },
+    "PersonFormDialog_LastName": {
+        "message": "Nachname",
+        "description": ""
+    },
+    "PersonFormDialog_AccountName": {
+        "message": "Account-Name",
+        "description": ""
+    },
+    "PersonFormDialog_JobTitle": {
+        "message": "Job-Titel",
+        "description": ""
+    },
+    "PersonFormDialog_Department": {
+        "message": "Abteilung",
+        "description": ""
+    },
+    "PersonFormDialog_Email": {
+        "message": "E-Mail",
+        "description": ""
+    },
+    "PersonFormDialog_Email2": {
+        "message": "E-Mail 2",
+        "description": ""
+    },
+    "PersonFormDialog_OfficePhone": {
+        "message": "Office Phone",
+        "description": ""
+    },
+    "PersonFormDialog_MobilePhone": {
+        "message": "Handy",
+        "description": ""
+    },
+    "PersonFormDialog_LinkEmail": {
+        "message": "Verkn\u00FCpfen Sie E-Mail an diese Platte",
+        "description": ""
+    },
+    "PersonFormDialog_Submit": {
+        "message": "Einreichen",
+        "description": ""
+    },
+    "PersonFormDialog_Cancel": {
+        "message": "Stornieren",
+        "description": ""
+    },
+    "PersonFormDialog_LastNameValidationMessage": {
+        "message": "Bitte geben Sie die Nachname",
+        "description": ""
+    },
+    "PersonFormDialog_EmailValidationMessage": {
+        "message": "Bitte geben Sie eine E-Mail-Adresse",
+        "description": ""
+    },
+    "Message_ConnectionFailure": {
+        "message": "Kann nicht mit Zucker verbinden. Bitte \u00FCberpr\u00FCfen Sie Ihre Verbindungseinstellungen.",
+        "description": ""
+    },
+    "Message_LoginFailure": {
+        "message": "Anmeldeversuch ist fehlgeschlagen.",
+        "description": ""
+    },
+    "Language": {
+        "message": "Deutsch",
+        "description": ""
+    }
+}

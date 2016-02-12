@@ -1,0 +1,190 @@
+{
+    "About_LanguageProvidedBy": {
+        "message": "Translations provided by SugarCRM",
+        "description": ""
+    },
+    "extDesc": {
+        "message": "Create SugarCRM sidebar on Gmail page and provide integration between Gmail and Sugar",
+        "description": ""
+    },
+    "SugarMenu_AddContactsToSugar": {
+        "message": "Add Contacts to Sugar",
+        "description": ""
+    },
+    "SugarMenu_Settings": {
+        "message": "Connection Settings",
+        "description": ""
+    },
+    "SugarMenu_About": {
+        "message": "About",
+        "description": ""
+    },
+    "SugarMenu_Help": {
+        "message": "Help",
+        "description": ""
+    },
+    "Metadata_Outdated": {
+        "message": "Metadata is outdated.",
+        "description": ""
+    },
+    "Metadata_ClickToFix": {
+        "message": "Click here to fix.",
+        "description": ""
+    },
+    "Sidebar_NeedPermission": {
+        "message": "Sugar sidebar need your permission to access Gmail:",
+        "description": ""
+    },
+    "Sidebar_RefreshMessage": {
+        "message": "Click Refresh after allowing access",
+        "description": ""
+    },
+    "Sidebar_AllowAccess": {
+        "message": "Allow Access",
+        "description": ""
+    },
+    "Sidebar_Refresh": {
+        "message": "Refresh",
+        "description": ""
+    },
+    "Sidebar_EmailLinked": {
+        "message": "Linked to Sugar",
+        "description": ""
+    },
+    "Sidebar_SenderRecord": {
+        "message": "Email from",
+        "description": ""
+    },
+    "Sidebar_RelatedSugarRecords": {
+        "message": "Related Sugar records",
+        "description": ""
+    },
+    "Sidebar_Search": {
+        "message": "Search",
+        "description": ""
+    },
+    "Sidebar_MatchingSugarRecords": {
+        "message": "Matching Sugar records",
+        "description": ""
+    },
+    "Sidebar_LinkEmail": {
+        "message": "Link Email",
+        "description": ""
+    },
+    "Sidebar_FoundAnIssue": {
+        "message": "Found an Issue?",
+        "description": ""
+    },
+    "Sidebar_IssueLetUsKnow": {
+        "message": "Please let us know",
+        "description": ""
+    },
+    "SettingsDialog_Title": {
+        "message": "Connection Settings",
+        "description": ""
+    },
+    "SettingsDialog_SugarURL": {
+        "message": "Sugar URL",
+        "description": ""
+    },
+    "SettingsDialog_Username": {
+        "message": "User Name",
+        "description": ""
+    },
+    "SettingsDialog_Password": {
+        "message": "Password",
+        "description": ""
+    },
+    "SettingsDialog_SaveSettings": {
+        "message": "Save Settings",
+        "description": ""
+    },
+    "SettingsDialog_Cancel": {
+        "message": "Cancel",
+        "description": ""
+    },
+    "SettingsDialog_URLValidationMessage": {
+        "message": "Please enter the Sugar URL.",
+        "description": ""
+    },
+    "SettingsDialog_LoginValidationMessage": {
+        "message": "Please enter your login credentials.",
+        "description": ""
+    },
+    "PersonFormDialog_Title": {
+        "message": "Create",
+        "description": ""
+    },
+    "PersonFormDialog_SelectOne": {
+        "message": "Select a person",
+        "description": ""
+    },
+    "PersonFormDialog_FirstName": {
+        "message": "First Name",
+        "description": ""
+    },
+    "PersonFormDialog_LastName": {
+        "message": "Last Name",
+        "description": ""
+    },
+    "PersonFormDialog_AccountName": {
+        "message": "Account Name",
+        "description": ""
+    },
+    "PersonFormDialog_JobTitle": {
+        "message": "Job Title",
+        "description": ""
+    },
+    "PersonFormDialog_Department": {
+        "message": "Department",
+        "description": ""
+    },
+    "PersonFormDialog_Email": {
+        "message": "Email",
+        "description": ""
+    },
+    "PersonFormDialog_Email2": {
+        "message": "Email 2",
+        "description": ""
+    },
+    "PersonFormDialog_OfficePhone": {
+        "message": "Office Phone",
+        "description": ""
+    },
+    "PersonFormDialog_MobilePhone": {
+        "message": "Mobile Phone",
+        "description": ""
+    },
+    "PersonFormDialog_LinkEmail": {
+        "message": "Link Email to this record",
+        "description": ""
+    },
+    "PersonFormDialog_Submit": {
+        "message": "Submit",
+        "description": ""
+    },
+    "PersonFormDialog_Cancel": {
+        "message": "Cancel",
+        "description": ""
+    },
+    "PersonFormDialog_LastNameValidationMessage": {
+        "message": "Please enter the Last Name",
+        "description": ""
+    },
+    "PersonFormDialog_EmailValidationMessage": {
+        "message": "Please enter an Email address",
+        "description": ""
+    },
+    "Message_ConnectionFailure": {
+        "message": "Unable to connect to Sugar. Please check your connection settings.",
+        "description": ""
+    },
+    "Message_LoginFailure": {
+        "message": "Login attempt failed.",
+        "description": ""
+    },
+    "Language": {
+        "message": "English (US)",
+        "description": ""
+    }
+}

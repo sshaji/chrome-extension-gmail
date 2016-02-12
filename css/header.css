@@ -1,0 +1,100 @@
+/* Logo area */
+#_sugarHeader_Logo {
+    background: url('chrome-extension://__MSG_@@extension_id__/img/topbg.png') repeat-x;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+/* Email linked button area */
+#_sugarHeader_EmailData {
+    background: url('chrome-extension://__MSG_@@extension_id__/img/topbg.png') repeat-x;
+    padding-left: 8px;
+    padding-top: 8px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+/* Email linked button */
+#_emailData {
+    font-family: Helvetica, sans-serif;
+}
+
+#_emailData a {
+    background-color: forestgreen;
+    font-size: 11px;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 3px 5px 3px 5px;
+}
+
+#_emailData a:hover {
+    background-color: #106f0d;
+}
+
+/* User picture area */
+#_sugarHeader_User {
+    background: url('chrome-extension://__MSG_@@extension_id__/img/topbg.png') repeat-x;
+    padding-top: 3px;
+}
+
+/* User picture */
+#_sugarUserPicture {
+    border-radius: 3px;
+}
+
+/* Menu link area */
+#_sugarHeader_Menu {
+    background: url('chrome-extension://__MSG_@@extension_id__/img/topbg.png') repeat-x;
+    padding-top: 5px;
+}
+
+#_sugarHeader_Menu:hover {
+    background: url('chrome-extension://__MSG_@@extension_id__/img/topbg_hover.png') repeat-x;
+}
+
+/* Drop down menu */
+#_sugarDropDownMenu {
+    border: solid 1px #CCCCCC;
+    border-top: none;
+    background: #FFFFFF;
+    position: absolute;
+    top: 40px;
+    right: 0px;
+    width: 180px;
+    padding: 6px 0;
+    clear: both;
+    z-index: 2;
+    display: none;
+}
+
+#_sugarDropDownMenu li {
+    background: none;
+    display: block;
+    float: none;
+    margin: 0 6px;
+    border: 0;
+    height: auto;
+    line-height: normal;
+    border-top: solid 1px #F5F5F5;
+}
+
+#_sugarDropDownMenu li a {
+    background: none;
+    display: block;
+    float: none;
+    padding: 6px 6px;
+    margin: 0;
+    border: 0;
+    height: auto;
+    line-height: normal;
+    font-family: Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    text-decoration: none;
+}
+
+#_sugarDropDownMenu li a:hover {
+    color: #4398EC;
+    background: #E5F1FC;
+}
